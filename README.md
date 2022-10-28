@@ -2,7 +2,7 @@
 
 - Desafio: criar um jogo de adivinhação.
 
-<img src="./preview.png" width=450>
+<img src="./preview.png" width=550>
 
 [🔗 Clique aqui para acessar](https://alineviana.github.io/jogo-adivinhacao/)
 
@@ -11,13 +11,16 @@
 > ## 📝 Conceitos estudados
 <br>
 
-- Responsividade
-- Animações e transições
-- Media queries
+- Manipulando a DOM
+- Funções
+- Eventos e callbacks
+- Input
 - Função Math()
 - Template strings/literals
 - Condicionais (if/else)
-- Funções
+- Responsividade
+- Animações e transições
+- Media queries
 
 <br>
 
