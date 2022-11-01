@@ -1,4 +1,4 @@
-# Projeto 06 | Programa Explorer da Rocketseat
+# Projeto 07 | Programa Explorer da Rocketseat
 
 - Desafio: criar um jogo de adivinhação.
 
